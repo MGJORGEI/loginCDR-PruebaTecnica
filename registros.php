@@ -64,7 +64,7 @@ $query = mysqli_query($con, $sql);
         <input type="text" name="name" placeholder="Nombre">
         <input type="text" name="lastname" placeholder="Apellidos">
         <input type="text" name="adress" placeholder="Domicilio">
-        <input type="password" name="married" placeholder="Estado Civil">
+        <input type="text" name="married" placeholder="Estado Civil">
         <input type="email" name="email" placeholder="Correo">
         <input type="submit" value="Agregar">
     </form>
