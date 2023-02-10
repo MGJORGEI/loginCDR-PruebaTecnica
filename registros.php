@@ -78,8 +78,8 @@ $query = mysqli_query($con, $sql);
                 <th>ID</th>
                 <th>Nombre</th>
                 <th>Apellidos</th>
-                <th>Username</th>
-                <th>Password</th>
+                <th>Domicilio</th>
+                <th>Estado Civil</th>
                 <th>Email</th>
                 <th></th>
                 <th></th>
