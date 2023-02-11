@@ -27,7 +27,5 @@ Requisitos:
     * Local Host (XAMPP)
     * Gestor Base de datos (MySQL)
     
-![image](https://user-images.githubusercontent.com/89808639/218269870-865c7b38-7415-4d86-ab0f-db262bc66f32.png)
-
-
+<p align="center"><img  width="150"  src="https://user-images.githubusercontent.com/89808639/218269870-865c7b38-7415-4d86-ab0f-db262bc66f32.png">
     
