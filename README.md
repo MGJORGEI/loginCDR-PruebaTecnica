@@ -28,4 +28,8 @@ Requisitos:
     * Gestor Base de datos (MySQL)
     
 <p align="center"><img  width="150"  src="https://user-images.githubusercontent.com/89808639/218269870-865c7b38-7415-4d86-ab0f-db262bc66f32.png">
+                  <img  width="150"  src="https://user-images.githubusercontent.com/89808639/218269934-aee18ceb-49e2-4df5-bdf1-9fe402fc36b5.png">
+                  <img  width="150"  src="https://user-images.githubusercontent.com/89808639/218270003-9110315a-77ce-4525-a801-e9611ea70477.png">
+
+
     
