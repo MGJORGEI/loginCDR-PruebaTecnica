@@ -23,7 +23,13 @@ Puntos a tomar en cuenta:
 3. Modelo entidad relación.
 4. Funcionalidad
 
-Risitos:
+Requisitos:
     * Local Host (XAMPP)
     * Gestor Base de datos (MySQL)
+    
+    ![image](https://user-images.githubusercontent.com/89808639/218269771-7e57ac2a-55f7-4686-92fe-a45a3620b6d4.png)
+    ![image](https://user-images.githubusercontent.com/89808639/218269790-24bea4e4-821b-488e-a9b0-c6505af0cbe5.png)
+    ![image](https://user-images.githubusercontent.com/89808639/218269803-cc19840a-61d8-40aa-b771-62b5c3c0b667.png)
+
+
     
